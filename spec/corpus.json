@@ -1,0 +1,444 @@
+{
+ "graphs": [
+  {
+   "id": "geng-n5-000",
+   "g6": "DU{"
+  },
+  {
+   "id": "geng-n5-001",
+   "g6": "DUw"
+  },
+  {
+   "id": "geng-n5-002",
+   "g6": "DC{"
+  },
+  {
+   "id": "geng-n5-003",
+   "g6": "DEw"
+  },
+  {
+   "id": "geng-n5-004",
+   "g6": "DUW"
+  },
+  {
+   "id": "geng-n5-005",
+   "g6": "DT{"
+  },
+  {
+   "id": "geng-n5-006",
+   "g6": "DFw"
+  },
+  {
+   "id": "geng-n5-007",
+   "g6": "DV{"
+  },
+  {
+   "id": "geng-n6-008",
+   "g6": "E^~w"
+  },
+  {
+   "id": "geng-n6-009",
+   "g6": "E?bo"
+  },
+  {
+   "id": "geng-n6-010",
+   "g6": "E?bw"
+  },
+  {
+   "id": "geng-n6-011",
+   "g6": "EEhw"
+  },
+  {
+   "id": "geng-n6-012",
+   "g6": "E]~o"
+  },
+  {
+   "id": "geng-n6-013",
+   "g6": "EUZ_"
+  },
+  {
+   "id": "geng-n6-014",
+   "g6": "EQj_"
+  },
+  {
+   "id": "geng-n6-015",
+   "g6": "EEuw"
+  },
+  {
+   "id": "geng-n6-016",
+   "g6": "EC~o"
+  },
+  {
+   "id": "geng-n6-017",
+   "g6": "EQzo"
+  },
+  {
+   "id": "geng-n6-018",
+   "g6": "EUxo"
+  },
+  {
+   "id": "geng-n6-019",
+   "g6": "EU~w"
+  },
+  {
+   "id": "geng-n7-020",
+   "g6": "FCQeG"
+  },
+  {
+   "id": "geng-n7-021",
+   "g6": "FCqn_"
+  },
+  {
+   "id": "geng-n7-022",
+   "g6": "FQjVo"
+  },
+  {
+   "id": "geng-n7-023",
+   "g6": "F?BDo"
+  },
+  {
+   "id": "geng-n7-024",
+   "g6": "FCpdG"
+  },
+  {
+   "id": "geng-n7-025",
+   "g6": "FEnf_"
+  },
+  {
+   "id": "geng-n7-026",
+   "g6": "FEzfW"
+  },
+  {
+   "id": "geng-n7-027",
+   "g6": "FCRfg"
+  },
+  {
+   "id": "geng-n7-028",
+   "g6": "FEzV_"
+  },
+  {
+   "id": "geng-n7-029",
+   "g6": "FQznW"
+  },
+  {
+   "id": "geng-n7-030",
+   "g6": "F?ov_"
+  },
+  {
+   "id": "geng-n7-031",
+   "g6": "FCpvO"
+  },
+  {
+   "id": "geng-n7-032",
+   "g6": "FCRvo"
+  },
+  {
+   "id": "geng-n7-033",
+   "g6": "F?qnw"
+  },
+  {
+   "id": "geng-n7-034",
+   "g6": "FCZn_"
+  },
+  {
+   "id": "geng-n7-035",
+   "g6": "FCZVg"
+  },
+  {
+   "id": "geng-n8-036",
+   "g6": "G?rFf["
+  },
+  {
+   "id": "geng-n8-037",
+   "g6": "GCz~v{"
+  },
+  {
+   "id": "geng-n8-038",
+   "g6": "GCRd~o"
+  },
+  {
+   "id": "geng-n8-039",
+   "g6": "GEjenS"
+  },
+  {
+   "id": "geng-n8-040",
+   "g6": "G?ovVW"
+  },
+  {
+   "id": "geng-n8-041",
+   "g6": "GCpf]w"
+  },
+  {
+   "id": "geng-n8-042",
+   "g6": "GCQbfw"
+  },
+  {
+   "id": "geng-n8-043",
+   "g6": "G?bark"
+  },
+  {
+   "id": "geng-n8-044",
+   "g6": "G?BffO"
+  },
+  {
+   "id": "geng-n8-045",
+   "g6": "G?aNbs"
+  },
+  {
+   "id": "geng-n8-046",
+   "g6": "G?bfj{"
+  },
+  {
+   "id": "geng-n8-047",
+   "g6": "G?zVeW"
+  },
+  {
+   "id": "geng-n8-048",
+   "g6": "G??FFw"
+  },
+  {
+   "id": "geng-n8-049",
+   "g6": "GCrbS["
+  },
+  {
+   "id": "geng-n8-050",
+   "g6": "GCQfAk"
+  },
+  {
+   "id": "geng-n8-051",
+   "g6": "GCutv{"
+  },
+  {
+   "id": "geng-n8-052",
+   "g6": "GEr^e{"
+  },
+  {
+   "id": "geng-n8-053",
+   "g6": "G?qvd{"
+  },
+  {
+   "id": "geng-n8-054",
+   "g6": "G?bNv{"
+  },
+  {
+   "id": "geng-n8-055",
+   "g6": "G?otvo"
+  },
+  {
+   "id": "geng-n9-056",
+   "g6": "H?B@l^\\"
+  },
+  {
+   "id": "geng-n9-057",
+   "g6": "H?`Fdr~"
+  },
+  {
+   "id": "geng-n9-058",
+   "g6": "H?bBFEU"
+  },
+  {
+   "id": "geng-n9-059",
+   "g6": "H?BDe]|"
+  },
+  {
+   "id": "geng-n9-060",
+   "g6": "H?`FdXz"
+  },
+  {
+   "id": "geng-n9-061",
+   "g6": "H?b@fV\\"
+  },
+  {
+   "id": "geng-n9-062",
+   "g6": "H?B@d^u"
+  },
+  {
+   "id": "geng-n9-063",
+   "g6": "H?b@fD]"
+  },
+  {
+   "id": "geng-n9-064",
+   "g6": "H?B@nQ}"
+  },
+  {
+   "id": "geng-n9-065",
+   "g6": "H?AFBq]"
+  },
+  {
+   "id": "geng-n9-066",
+   "g6": "H?`DErV"
+  },
+  {
+   "id": "geng-n9-067",
+   "g6": "H?`Dbt|"
+  },
+  {
+   "id": "geng-n9-068",
+   "g6": "H?B@vB^"
+  },
+  {
+   "id": "geng-n9-069",
+   "g6": "H?`Dfp~"
+  },
+  {
+   "id": "geng-n9-070",
+   "g6": "H?bBFN~"
+  },
+  {
+   "id": "geng-n9-071",
+   "g6": "H?`DBjY"
+  },
+  {
+   "id": "geng-n10-072",
+   "g6": "I??E@quzW"
+  },
+  {
+   "id": "geng-n10-073",
+   "g6": "I??E@bGrW"
+  },
+  {
+   "id": "geng-n10-074",
+   "g6": "I??CBBQnO"
+  },
+  {
+   "id": "geng-n10-075",
+   "g6": "I??CB@[n_"
+  },
+  {
+   "id": "geng-n10-076",
+   "g6": "I??EFBPj_"
+  },
+  {
+   "id": "geng-n10-077",
+   "g6": "I??E@_ipW"
+  },
+  {
+   "id": "geng-n10-078",
+   "g6": "I??EFB}~g"
+  },
+  {
+   "id": "geng-n10-079",
+   "g6": "I??CB@xdo"
+  },
+  {
+   "id": "geng-n10-080",
+   "g6": "I??CFrq|o"
+  },
+  {
+   "id": "geng-n10-081",
+   "g6": "I??CEFw\\o"
+  },
+  {
+   "id": "geng-n10-082",
+   "g6": "I??CFFwvg"
+  },
+  {
+   "id": "geng-n10-083",
+   "g6": "I??CFBwvw"
+  },
+  {
+   "id": "geng-n11-084",
+   "g6": "J???CB@^Ds_"
+  },
+  {
+   "id": "geng-n11-085",
+   "g6": "J???C@oRf[_"
+  },
+  {
+   "id": "geng-n11-086",
+   "g6": "J???C@w{^l_"
+  },
+  {
+   "id": "geng-n11-087",
+   "g6": "J???CBozf]?"
+  },
+  {
+   "id": "geng-n11-088",
+   "g6": "J???C@{wuf?"
+  },
+  {
+   "id": "geng-n11-089",
+   "g6": "J???C@w^fr?"
+  },
+  {
+   "id": "geng-n11-090",
+   "g6": "J???CBoZU~_"
+  },
+  {
+   "id": "geng-n11-091",
+   "g6": "J???C@oqEL?"
+  },
+  {
+   "id": "petersen-092",
+   "g6": "IheA@GUAo"
+  },
+  {
+   "id": "grotzsch-093",
+   "g6": "JhdLA_gc?N_"
+  },
+  {
+   "id": "heawood-094",
+   "g6": "MhEGHC@AI?_PC@_G_"
+  },
+  {
+   "id": "chvatal-095",
+   "g6": "KhdLA_hc?L_y"
+  },
+  {
+   "id": "frucht-096",
+   "g6": "KhCKM?_EGK?L"
+  },
+  {
+   "id": "icosahedral-097",
+   "g6": "KhFKFCrEk[n_"
+  },
+  {
+   "id": "dodecahedral-098",
+   "g6": "ShCHGD@?K?_@?@?C_GGG@??cG?G?GK_?C"
+  },
+  {
+   "id": "k7-099",
+   "g6": "F~~~w"
+  },
+  {
+   "id": "k33-100",
+   "g6": "EFz_"
+  },
+  {
+   "id": "c15-101",
+   "g6": "NhCGGC@?G?_@?@??o?G"
+  },
+  {
+   "id": "p14-102",
+   "g6": "MhCGGC@?G?_@?@??_"
+  },
+  {
+   "id": "star12-103",
+   "g6": "LsaCCA?_C?O?_?"
+  },
+  {
+   "id": "wheel10-104",
+   "g6": "I|eKKE@oG"
+  },
+  {
+   "id": "grid4x4-105",
+   "g6": "Oh`HGcG@GC_H?G?C_@G?H"
+  },
+  {
+   "id": "hypercube4-106",
+   "g6": "Or`HOm?OH@ABAG@C_POAJ"
+  },
+  {
+   "id": "tree_rand-107",
+   "g6": "LC?`??HT?Ag??C"
+  },
+  {
+   "id": "barbell-108",
+   "g6": "N~~wGC@?G?_B?F?F_Bw"
+  },
+  {
+   "id": "lollipop-109",
+   "g6": "K~~~wC@?G?_@"
+  }
+ ]
+}
