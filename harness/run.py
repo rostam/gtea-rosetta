@@ -198,8 +198,9 @@ def main():
     if spreads:
         print(f"\nwidest spectralRadius spread across languages: {spreads[0][0]:.3e} on {spreads[0][1]}")
     print(f"\nwrote docs/data/results.json")
-    return 1 if total_dis else 0
 
 
 if __name__ == "__main__":
-    sys.exit(0 if main() == 0 else 0)   # report, never fail the build
+    # Always exits 0: this script reports, it does not judge. CI decides whether a
+    # disagreement should fail the build, in a separate step that reads results.json.
+    main()
